@@ -9,11 +9,11 @@ Commands were used on a Mac machine running zsh.
 ## How to Install and Run the Project
 Create project repository in Github and clone to your machine.
 
-```shell
+```
 git clone project.url
 ```
 
-```shell
+```
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
@@ -21,13 +21,13 @@ python3 -m pip install -r requirements.txt
 
 ## Freeze Requirements
 
-```shell
+```
 python3 -m pip freeze > requirements.txt
 ```
 
 ## Import Dependencies and Create Database
 
-```shell
+```
 import sqlite3
 import pandas as pd
 import pathlib
@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
 ## Git Add / Commit / Push 
 
-```shell
+```
 git add .
 git commit -m "initial commit"
 git push origin main
