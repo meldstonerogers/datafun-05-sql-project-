@@ -143,7 +143,7 @@ git push origin main
 ## Project Summary
 This professional project is a valuable opportunity to become comfortable integrating Python and SQL. Engaging with ChatGPT was helpful in handling errors in SQL statements and Python code. 
 
-![Final Project Screenshot](https://github.com/meldstonerogers/datafun-05-sql-project-/blob/main/Screen%20Shot%202024-06-02%20at%2010.59.03%20PM.png)
+![Final Project Screenshot](https://github.com/meldstonerogers/pic_for_projects/blob/main/Screen%20Shot%202024-06-02%20at%206.10.20%20PM.png)
 
 ## Specification
 
