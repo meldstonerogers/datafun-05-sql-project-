@@ -132,7 +132,18 @@ def insert_records():
     except sqlite3.Error as e:
         print("Error inserting data from SQL:", e)
 ```        
+## Complete Your Project
+Save your project and push back to your repository. 
+```
+git add .
+git commit -m "final"                         
+git push origin main
+```
 
+## Project Summary
+This professional project is a valuable opportunity to become comfortable integrating Python and SQL. Engaging with ChatGPT was helpful in handling errors in SQL statements and Python code. 
+
+![Final Project Screenshot](https://github.com/meldstonerogers/datafun-05-sql-project-/blob/main/Screen%20Shot%202024-06-02%20at%2010.59.03%20PM.png)
 
 ## Specification
 
